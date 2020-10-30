@@ -1,4 +1,5 @@
 este es una historia
 
+tengo 39 años de edad
 
-tengo 39 años
+comenzando con git
