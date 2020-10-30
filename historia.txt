@@ -3,3 +3,6 @@ este es una historia
 tengo 39 años de edad
 
 comenzando con git
+
+
+mas información de mi
